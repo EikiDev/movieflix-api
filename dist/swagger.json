@@ -222,7 +222,7 @@
                     "oscar_count",
                     "release_date"
                 ],
-                "properties": { 
+                "properties": {
                     "title": {
                         "type": "string",
                         "description": "Título do filme"
